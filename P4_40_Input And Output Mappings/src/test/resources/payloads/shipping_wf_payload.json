@@ -1,7 +1,7 @@
 {
   "username":"yogishyb",
   "userEmail":"yogishayb2@gmail.com",
-  "cost": 1000
+  "cost": 1000,
   "orderId": "order_987654321",
   "amount": 49.99,
   "currencyCode": "USD",

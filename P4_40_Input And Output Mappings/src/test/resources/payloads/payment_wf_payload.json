@@ -1,0 +1,11 @@
+{
+  "userId":"yogishyb",
+  "userEmail":"yogishayb2@gmail.com",
+  "name": "Yogish Dev",
+  "transactionId": "tx_987654321",
+  "amount": 49.99,
+  "currency": "USD",
+  "paymentMethod": "credit_card",
+  "cardNo": "1234 5678 1234 5678",
+  "timestamp": "2026-10-26T13:30:00Z"
+}

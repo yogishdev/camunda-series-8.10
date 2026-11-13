@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: JaegerTracing
+server:
+  port: 8090
+camunda:
+  client:
+    mode: self-managed
+    grpc-address: http://localhost:26500
+    rest-address: http://localhost:8080
+  rest:
+    swagger:
+      enabled: false
